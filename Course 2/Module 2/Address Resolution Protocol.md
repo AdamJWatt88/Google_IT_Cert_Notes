@@ -1,0 +1,8 @@
+-   ARP is a protocol used to discover the hardware address of a node with a certain IP address.
+-   IP datagrams need to be encapsulated inside an Ethernet frame and require a destination MAC address to complete the Ethernet frame header.
+-   Network-connected devices retain a local ARP table, which is a list of IP addresses and their associated MAC addresses.
+-   If a destination IP address doesn't have an entry in the ARP table, a broadcast ARP message is sent to the MAC broadcast address, which is all Fs.
+-   The network interface that's been assigned the destination IP address sends back an ARP response message containing its MAC address.
+-   The transmitting computer uses this MAC address to put in the destination hardware address field, and the Ethernet frame is ready for delivery.
+-   The IP address and its associated MAC address are usually stored in the local ARP table for future use.
+-   ARP table entries generally expire after a short amount of time to ensure changes in the network are accounted for.

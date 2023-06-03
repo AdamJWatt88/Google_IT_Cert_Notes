@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "3d2d7cf32362753b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a4773679075477c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03aecb43b708f04f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "419f8a7bff0b25ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "81dbbc999aefdd1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb4fa951310d058c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eabd0896fa1591c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "remote access",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bae1db54a474fef",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b99630913fe96028",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "cae428d1820408fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "79c958e85d35e785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72698cdba1273e3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "396ca9e0f87a4b6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b0696b34496515f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f2807ed8fd6f33d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "03aecb43b708f04f",
+  "lastOpenFiles": [
+    "Course 5/Course 5 Glossary.md",
+    "Course 4/Course 4 Glossary.md",
+    "Course 5/Module 6/Module 6 Glossary.md",
+    "Course 5/Module 6/Measuring and Assessing Risk.md",
+    "Course 4/Module 2/Remote Access Revisited.md",
+    "Course 5/Module 2/Securing Network Traffic.md",
+    "Course 2/Module 4/Virtual Private Networks.md",
+    "Course 5/Module 4/Network Hardening Best Practices.md",
+    "Course 5/Module 3/Access Control.md",
+    "Course 5/Module 6/Security Goals.md",
+    "Untitled.md",
+    "Course 5 Security Plan Assignment.md",
+    "Course 5/Module 5/Application Policies.md",
+    "Course 5/Module 6/Third-Party Security.md",
+    "Course 5/Module 6/Incident Reporting and Analysis.md",
+    "Course 4/Module 2/Remote Connections.md",
+    "Course 2/Module 5/Wireless Network Protocols for IoT.md",
+    "Course 5/Module 6/User Habits.md",
+    "Course 5/Module 3/Physical Privacy and Security Components.md",
+    "Course 5/Module 2/Asymmetric Cryptography.md",
+    "Course 5/Module 1/Client-Side Attacks.md",
+    "Course 5/Module 1/Antimalware Protection, Malware Removal.md",
+    "Course 5/Module 5/Host-Based Firewall.md",
+    "Course 2/Module 1/Dissecting an Ethernet Frame.md",
+    "Course 5/Module 3/Best practices for authentication.md",
+    "Course 5/Module 3/Authorization and Access Control Methods.md",
+    "Untitled.canvas",
+    "Course 5/images/quarantine-machine.png",
+    "Course 5/Module 6",
+    "Course 5/images/code_signing_certificate.png",
+    "Course 5/images/monitor_traffic-on_vpn.png",
+    "Course 5/images/bastion_host.png",
+    "Course 5/Module 5",
+    "Course 5/images/signatures_of_know_traffic.png",
+    "Course 5/images/NIDS_vs_Host.png",
+    "Course 5/images/4_way_handshake.png",
+    "Course 5/images/CCMP.png",
+    "Course 5/images/TKIP.png",
+    "Course 5/images/WEP_shared_key.png",
+    "Course 5/images",
+    "Course 5/Module 4",
+    "Course 5/Module 3",
+    "Course 5/Module 2",
+    "Course 5/Module 1",
+    "Course 5",
+    "Course 4/Module 5",
+    "Course 4/Module 4"
+  ]
+}

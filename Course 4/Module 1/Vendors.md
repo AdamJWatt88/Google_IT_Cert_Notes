@@ -1,0 +1,98 @@
+-   Sys admins in small companies work with users' computers, printers, and phones.
+-   Phone lines have to be set up, and printers must be set up so employees can use them.
+-  **Sys admins** might be **responsible** for making sure **printers are working** or that someone can fix rented **commercial printers**.
+-   They could also be responsible for fax machines and video/audio conferencing machines.
+-   In an enterprise setting, sys admins have to procure hardware and work with vendors to buy hardware.
+-   Setting up business accounts with vendors like HP, Dell, and Apple is beneficial for discounts to businesses.
+-   **Sys admins need to weigh their options before purchasing anything**, considering hardware supply, suitable backup, and price.
+-   They'll need **formal approval** from their **manager** or another leader to establish a relationship with a vendor
+
+# Vendor Life-Cycle for Custom Services and Products 
+
+Another important vendor life-cycle involves the engagement and management of service vendors. IT Support professionals may need to engage and/or manage service vendor relationships as part of their job responsibilities. Service vendors are often businesses that offer specialized services, products, and/or skilled labor to other businesses. Many organizations outsource business needs to these types of vendors as cost saving measures to temporarily augment staff, and to more efficiently manage company time and resources. 
+
+Hiring temporary contractors on an as-needed basis can be a disruptive, lengthy, and expensive process. Employing a full-service vendor, on the other hand, simplifies the process to a single contract agreement, allowing the vendor to assume responsibility for supplying and managing the resources necessary to carry out your project. For example, your organization may choose to outsource a company-wide computer system upgrade to a vendor that can supply a temporary IT workforce to implement the large-scale project. Using a vendor for this project may save your organization the time, expense, effort, and liability associated with hiring, training, and managing individual contractors.
+
+### Vendor life-cycle management for custom services and products
+
+Vendor life-cycle management is an end-to-end standardization for conducting business partnerships with vendors. As a best practice for business management, organizations should develop standard policies and procedures for the procurement and management of vendors. 
+
+The standard vendor lifecycle can be categorized into three contract phases and eight management steps:
+
+### Phase one - Pre-contract
+
+Phase one of the vendor lifecycle management process begins with an organization identifying the need to outsource a process or project to a services vendor. 
+
+1.  **Vendor identification and engagement:** An organization identifies potential vendors and engages them to collect more information about the vendor’s business offerings and capabilities. The organization will inform the vendors of the service needs and will solicit “requests for proposals” (RFPs), “invitations to bid” (ITB), or other similar proposal documents from the vendor. The organization will select a small number of promising proposals to analyze in greater depth. Some organizations may have official procurement officers to ensure fair and ethical vendor selections.
+    
+2.  **Vendor qualification and risk mitigation:** The organization advances the shortlisted proposals to the qualification stage. In this stage, the organization and/or procurement officers request additional information from the vendor to help exclude vendors that might pose a risk to the organization. 
+    
+3.  **Vendor evaluation and selection:** The organization and/or procurement officers evaluate the vendor information collected during the qualification phase. The organization’s vendor selection team analyzes the vendor information to determine each vendor’s health and stability as a business, as well as their ability to deliver on the organization's request. Some of the data points used in this evaluation and selection may include the vendor’s:
+    
+    1.  **History:** Does the vendor have a clean business record?
+        
+    2.  **Ratings and quality:** What are other customers saying about the vendor online and through services like the Better Business Bureau?
+        
+    3.  **Expertise:** Does the vendor have the experience, skills, talent, and/or expertise to deliver on needed services?
+        
+    4.  **Cost:** Will the vendor’s proposal fit into the organization’s budget? 
+        
+    5.  **Offer compliance:** Does the vendor’s proposal fulfill all of the requirements of the organization’s request?
+        
+    6.  **Responsiveness and customer service:** How long does it take the vendor to respond to the organization’s requests? What is the vendor’s approach to offering timely customer service?
+        
+
+Once a vendor is selected, the organization will negotiate a statement of work (SoW) and contract terms with the vendor. Performance criteria, milestones, and deliverables should be well-defined in the SoW and contract. 
+
+1.  **Vendor information management and onboarding:** The selected vendor goes through an onboarding process with the organization. Information about the vendor is recorded in the organization’s procurement system and provided to the appropriate stakeholders for the engagement. Information management is important to the vendor life-cycle management and maintaining strategic relationships with vendors. The organization's IT department may issue IT equipment to the vendor for establishing secure and monitored connections to the organization’s network. The organization might also offer vendors training sessions for the organization’s relevant policies, procedures, expectations, systems, network, tools, etc.
+    
+
+### Phase two - Contract delivery
+
+1.  **Performance management monitoring:** Organizations often assign a project manager to monitor the performance criteria, milestones, due dates, and deliverables defined in the SoW and contract. It is vital to vendor and project management to ensure the vendor is meeting the contracted expectations on time and on budget. The organization should conduct regular performance reviews and may request improvements to the vendor’s performance. How the vendor responds to improvement requests is important to the business relationship and can positively or negatively affect opportunities for future engagements.
+    
+2.  **Risk management:** Organizations and project managers should also monitor and analyze potential risks during the course of the vendor engagement.  
+    
+    1.  **Supply chain risk management:** If the vendor’s product or service depends on a supply chain, contingency plans need to be in place to prevent negative impacts to the project if a disruption to the supply chain occurs. Additionally, it is important to ensure the vendor does not create compliance problems with supply chains, as this risk might impact the organization’s reputation.
+        
+    2.  **Product upgrade limitations and other risks:** Organizations must monitor risks related to updating, maintaining, and upgrading the vendor’s deliverables. Especially important is the availability and capability of the vendor to provide these periodic updates or upgrades. Contingent plans should be defined in case the vendor cannot meet this need.
+        
+3.  **Vendor relationship management:** Organizations can support their relationships with vendors by: 
+    
+    1.  Developing a communication plan with frequent check-ins
+        
+    2.  Building and maintaining healthy partnerships
+        
+    3.  Ensuring all parties benefit from the engagement
+        
+
+### Phase three - Post-contract
+
+1.  **Vendor offboarding:** When the vendor project comes to an end, the post-contract closing process is initiated. The organization’s project manager and/or a procurement officer are often assigned to facilitate the vendor offboarding. In this phase, the organization performs an analysis to ensure the vendor has met all contractual obligations. Any residual obligations, like warranties and post contract support are revisited, and sometimes revised, with the vendor and relevant stakeholders of the organization.
+    
+    1.  **Warranties:** The organization should keep detailed records of any vendor or third-party warranties provided for the deliverables from the vendor engagement. All stakeholders should be made aware of the inclusions, exclusions, and expiration dates of the warranties. 
+        
+    2.  **Post-contract support:** The organization should keep detailed records of any services, like technical support, supplied in the post-contract phase. The organization’s contract with the vendor should have a clearly defined maintenance clause or a statement that post-contract support is not included.
+        
+
+Finally, the organization’s project manager and/or a procurement officer uses the organization’s offboarding checklist to complete the post-contract closing. The checklist might include requesting the vendor return IT equipment and removing the vendor identity profiles on the organization’s network. IT Support professionals might also be enlisted to  ensure any intellectual property belonging to the organization is stored properly with necessary security precautions.
+
+
+# Vendor life-cycles for support of commercial products
+
+Commercial vendors of computer operating systems, software, products, peripherals, and other IT equipment plan life-cycle schedules, or product roadmaps, for supporting their products. It is important for IT Support professionals to keep track of these life-cycle schedules, especially the date when the product will reach its end of life (EOL). The EOL date is the point at which the vendor plans to end all support for the product and it is reclassified as a legacy product.
+
+IT Support professionals should plan to update, upgrade, or replace a product before it reaches its EOL date. Once the EOL date has passed, the vendor will no longer provide technical support, security patches, or driver or firmware updates for the product. This lack of support can create a security risk for computer systems and networks. Cybercriminals take advantage of legacy products that are no longer being patched or updated. Warranties can expire on or before a product’s EOL date as well. This can disrupt normal IT operations if the product fails, as IT Support professionals must expedite purchasing, implementing, and providing  training for the legacy product’s replacement. 
+
+The details of product life-cycle support policies vary from vendor to vendor. However, some life-cycle phases are common to most vendors: 
+
+1.  **Beta testing phase:** Often, the first introduction of a vendor’s product to the public occurs through a beta testing phase. Beta testing is used to collect product feedback from early adoption tech users. This feedback is used to improve the product before it is available to the general public. For example, you might be familiar with Microsoft’s Windows Insider Program. Early adopters of Microsoft products can sign up to beta test the latest updates to the Windows operating systems.
+    
+2.  **Product release and primary support phase:** When the beta testing phase ends and the vendor has updated and repaired reported defects, the product will then become available and marketed to the general public. It is normal for products to experience problems as a larger group of end users implements the product into their unique computing environments. Vendors respond by developing and releasing regular updates and security patches for the product during this supported product life-cycle phase. It is critical that IT Support professionals update the product regularly to prevent security breaches and other disruptions to the product’s usability. 
+    
+3.  **Extended support phase:** Product roadmaps also include a phase-out period when vendors introduce their next generation products. The vendor normally continues support for the older product during this phase by releasing critical patches. The product is often phased out of the primary commercial market, but resellers may continue to sell it as a used or unused surplus product. Buyers should carefully investigate the warranty and support for the product if purchased from a reseller. 
+    
+
+**End of life (EOL) phase:** When a product has reached its scheduled EOL date, the vendor will end support for the product. Tech support and warranties will expire. The vendor will no longer release product updates, security patches, drivers, firmware, etc., leaving the legacy product vulnerable to security attacks. Vendors encourage customers to buy the new, next generation product as a replacement for the legacy product.
+
+#vendors #course4-module1 

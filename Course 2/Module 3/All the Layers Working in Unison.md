@@ -1,0 +1,19 @@
+- Network A has an address space of 10.1.1.0/24, Network B has an address space of 192.168.1.0/24, and Network C has an address space of 172.16.1.0/24.
+- Router A sits between network A and network B with an IP address of 10.1.1.1 on network A and 192.168.1.254 on network B. Router B connects networks B and C with an IP address of 192.168.1.1 on network B and 172.16.1.1 on network C.
+- Computer 1 is on network A with an IP address of 10.1.1.100, and Computer 2 is on network C with an IP address of 172.16.1.100 and a web server listening on Port 80.
+- Computer 1 opens a web browser and enters 172.16.1.100 into the address bar.
+- The web browser communicates with the local networking stack, which examines its subnet and finds that the destination IP address is on another network.
+- Computer 1 sends any data to its gateway for routing to a remote network and it's been configured with a gateway of 10.1.1.1.
+- Computer 1 crafts an ARP request for an IP address of 10.1.1.1 and sends it to the hardware broadcast address of all nodes on the local network.
+- When router A receives the ARP message, it responds to Computer 1 with its own MAC address of 00:11:22:33:44:55.
+- Computer 1 receives this response and now knows the hardware address of its gateway.
+- Computer 1 constructs an outbound packet and identifies the ephemeral port of 50,000 as being available and opens a socket connecting the web browser to this port.
+- The networking stack starts to build a TCP segment and fills in all the appropriate fields in the header.
+- The IP layer of the networking stack constructs an IP header and inserts the TCP segment as the data payload for the IP datagram.
+- An Ethernet frame is constructed with the IP datagram as the data payload and sent across the physical layer to the network switch.
+- The switch receives the frame and inspects the destination MAC address to know which of its interfaces to forward the frame to.
+- Router A receives the frame, inspects the destination IP address, and forwards it to Router B.
+- Router B receives the frame, inspects the destination IP address, and forwards it to Computer 2.
+- Computer 2 receives the frame, extracts the IP datagram, and sends it up to its local networking stack.
+- The web server on Computer 2 sends the requested webpage back to Computer 1 through the same process.
+- The networking stack on Computer 1 receives the webpage and sends it to the web browser on port 50,000.

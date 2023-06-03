@@ -1,0 +1,11 @@
+-   The most common type of cabling used for connecting computing devices is twisted pair
+-   Twisted pair cables feature pairs of copper wires twisted together for protection against electromagnetic interference and cross-talk
+-   A standard Cat six cable has eight wires consisting of four twisted pairs inside a single jacket
+-   **Duplex communication** allows information to flow in both directions across the cable
+-   **Simplex communication** is unidirectional
+-   Networking cables reserve one or two pairs for communicating in one direction and use the other one or two pairs for communicating in the other direction to ensure duplex communication is possible
+-   Devices on either side of a networking link can communicate with each other at the same time, known as **full duplex**
+-   If there is an issue with the connection, the network link may report itself as operating in **half-duplex**
+-   In half-duplex, only one device can communicate at a time
+
+- #course2-module1 #duplex-communication #simplex-communication #full-duplex #half-duplex

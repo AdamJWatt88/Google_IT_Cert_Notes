@@ -1,0 +1,22 @@
+-   No one-size-fits-all approach
+-   **Three types of measures:** preventive, detection, corrective/recovery
+-   Perform risk assessment to identify priorities
+-   **Preventive measures**:
+    -   Redundancy for critical systems
+    -   Sound backup and recovery system
+    -   Regular automated backups
+    -   Clear and updated data recovery procedures
+    -   Redundancies for power, communication, data links, and hardware
+    -   Operational documentation for critical procedures
+    -   Periodically verify that documented steps work
+-   **Detection measures**:
+    -   Comprehensive system to quickly detect and alert to service outages or abnormal environmental conditions
+    -   Monitor critical infrastructure services and access
+    -   Monitor for conditions that indicate a problem is likely to occur
+    -   Test monitoring and reaction/response systems regularly
+-   **Corrective/recovery measures**:
+    -   Steps to restore normal operations and recover from incidents or outages
+    -   Include documentation links for restoring various systems and data from backups
+    -   Ensure critical documentation is accessible in an emergency or disaster scenario.
+
+#data-recovery #disaster-recovery #recovery-plan #course4-module5 

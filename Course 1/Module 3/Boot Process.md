@@ -1,0 +1,3 @@
+- Devices that are attached to our system, like hard drives, USB drives, CD drives, etc, are configured in a certain boot order. The devices will be checked in this order and the computer will search for what's known as a bootloader. The bootloader is a small program that loads the operating system. Once our computer finds a bootloader on a device in the listed order, it will start to execute this program.
+
+#bootloader #boot-process #course1-module3 

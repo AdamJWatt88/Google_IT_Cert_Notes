@@ -1,0 +1,10 @@
+-   Computer networking is a complex business involving many technologies, layers, and protocols.
+-   The main purpose of computer networking is to provide network services that can answer requests for data from clients.
+-   The diversity and quantity of components that may make up a network service make it impossible to cover all of them.
+-   However, there are various network services and technologies that are used to make computer networking more user-friendly and secure.
+-   These network services and technologies are directly related to the networking business, and it is important to understand how they function.
+-   If anything on the network is not functioning as expected, the first place to look is the services discussed in this module.
+-   To be an IT support specialist, fixing issues that are not working as intended will be a major part of the job.
+-   This module will teach you why name resolution is important, the many steps involved in DNS lookup, and the most common DNS record types.
+-   You will learn how DHCP simplifies network administration, how NAT technologies maintain network security and preserve IP address space, and how VPNs and proxies aid users in getting connected and remaining secure.
+-   This module will cover a lot of ground, so let's get started.

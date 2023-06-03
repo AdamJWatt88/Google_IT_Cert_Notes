@@ -1,0 +1,14 @@
+-   Final steps of physical layer occur at endpoints of network links
+-   Twisted pair network cables terminated with RJ45 plug
+-   RJ45 is most common plug specification for computer networking
+-   Network ports are attached to devices that make up computer network
+-   Switches have many network ports, servers and desktops usually have one or two
+-   Network ports usually have two small LED lights: link and activity
+-   Link light indicates properly connected devices with power on
+-   Activity light flashes when data is actively transmitted across cable
+-   Activity light does not correspond directly to ones and zeros anymore due to high network speeds
+-   Switches may use same LED for link and activity status or indicate other things like link speed
+-   Troubleshooting data available through port lights
+-   Some network ports mounted in walls or underneath desks, connected to network via cables ran through walls to patch panel
+-   Patch panel contains many network ports but does not perform any other work![[patch-panel.png]]
+-   Additional cables ran from patch panel to switches or routers to provide network access to computers at other end of links

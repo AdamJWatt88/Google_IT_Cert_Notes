@@ -1,0 +1,1 @@
+For more information on how to install the open-source graphical editor GIMP click [here](https://www.gimp.org/downloads/).

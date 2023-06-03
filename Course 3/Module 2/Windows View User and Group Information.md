@@ -1,0 +1,23 @@
+-   To view **user** and **group** information in **Windows**, use the **Computer Management tool**
+-   Open the tool by searching **"Computer Management"** in the application search
+-   The top sidebar shows **"Computer Management Local**" for managing a single machine
+-   In an enterprise environment, manage multiple machines in a domain
+-   Under **System Tools** menu:
+    -   **Task Scheduler**: schedule programs and tasks to run at certain times
+    -  **Event Viewer**: where system stores system logs
+    -   **Shared Folders**: shows folders that different users on the machine share with each other
+    -   **Local Users and Groups**: user and group management
+    -   **Performance**: shows monitoring for the resources of the machine
+    -   **Device Manager**: manage devices added to the computer
+-   Under Storage menu: Disk Management submenu
+-   Services and Applications menu: shows the programs and services available on the system
+-   To check user and group information:
+    -   Open Local Users and Groups
+    -   Under Users, see built-in Windows accounts like guest and administrator
+    -   Local administrator account lets you login using the administrator username and password (disabled by default)
+    -   Under the member of tab, see which groups the user is part of
+    -   Use UAC (User Access Control) to use administrative powers when needed while logged into a regular account
+    -   Under Groups, see which groups are available and their members
+-   Can also view user and group information using Windows CLI.
+
+#user #group #

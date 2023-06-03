@@ -1,0 +1,23 @@
+- **IDS/IPS systems**: Intrusion detection and prevention systems operate by monitoring network traffic and analyzing it. They help detect and prevent malicious activities within a network.
+- **Supporting the platform**: As an IT support specialist, you may need to support the underlying platform on which the **IDS/IPS system runs**. This involves tasks such as maintaining the system, updating rules, and responding to alerts.
+- **IDS vs. IPS:** **IDS (Intrusion Detection System)** is a detection-only system. It identifies and logs malicious traffic but doesn't take action to prevent attacks. On the other hand, **IPS (Intrusion Prevention System)** can actively block or drop malicious traffic by adjusting firewall rules.
+- **Host-based vs. network-based**: IDS/IPS systems can be **host-based** or **network-based**. **Network Intrusion Detection Systems (NIDS**) monitor traffic for a network segment or subnet, while **host-based IDS (HIDS)** is deployed on a specific host and monitors traffic to and from that host.![[NIDS_vs_Host.png]]
+- **NIDS deployment**: NIDS systems are deployed within the network topology to monitor traffic. **Port mirroring** functionality in enterprise switches allows packets on a port range or VLAN to be mirrored to another port connected to the NIDS machine. This configuration enables monitoring of host-to-host communications and traffic to external networks.
+- **NIDS analysis**: The NIDS host analyzes the mirrored traffic by **enabling promiscuous mode** on the analysis port, which receives the mirrored packets. The **host must have at least two network interfaces**: one for **monitoring and analysis** and another for **management purposes**.
+- **NIPS deployment**: **Network Intrusion Prevention Systems (NIPS)** are placed in line with the traffic being monitored. The traffic must pass through the NIPS device for it to take action against suspected malicious traffic.
+- **Signature-based detection**: IDS/IPS systems detect threats or malicious traffic using signature-based detection, similar to antivirus software. Signatures are unique characteristics of known malicious traffic, allowing quick recognition and prevention of common attack vectors.![[signatures_of_know_traffic.png]]
+- Rule and signature maintenance: As an IT support specialist, you may be responsible for maintaining the IDS/IPS setup, including updating rules and signatures to ensure effective detection and prevention.
+- **Alerting and response**: When a NIDS detects malicious traffic, it logs the event and captures the full packet for further investigation. Alerts are triggered to notify the investigating team, and the severity of the event determines the response, which can range from email notifications to urgent alerts requiring immediate attention.
+- **Custom rules**: Custom rules can be created to identify suspicious traffic that may not be inherently malicious. These rules enable detailed investigation to determine the nature of the traffic and develop signatures if necessary.
+
+By understanding these concepts, you'll be better equipped to secure networks and respond to potential threats. Feel free to review any specific topic if needed.
+
+# Supplemental reading for Intrusion Detection/Prevention System
+
+Snort: [https://www.snort.org/](https://www.snort.org/)
+
+Suricata: [https://suricata.io/](https://suricata.io/)
+
+The Bro Network Security Monitor has recently been renamed to the Zeek Network Security Monitor: [https://www.zeek.org/](https://www.zeek.org/)
+
+#Intrusion-detection #Prevention-systems #Operate #Monitoring #Network-traffic #Analyzing #Detect #Prevent #Malicious-activities #Supporting #IT-support-specialist #Underlying-platform #Maintaining #Updating-rules #Responding-to-alerts #IDS #IPS #Detection-only-system #Identify #Log #Take-action #Adjusting-firewall-rules #Host-based #Network-based #NIDS #HIDS #Deployed #Monitor-traffic #Network-segment #Subnet #Host-to-host-communications #Port-mirroring-functionality #Enterprise-switches #Mirrored-packets #Promiscuous-mode #Network-interfaces #NIPS #In-line #Suspected-malicious-traffic #Signature-based-detection #Antivirus-software #Signatures #Quick-recognition #Prevention #Attack-vectors #Rule-maintenance #Signature-maintenance #Alerting #Response #Logging-events #Full-packet-capture #Investigation #Severity #Email-notifications #Urgent-alerts #Custom-rules #Suspicious-traffic #Inherently-malicious #Detailed-investigation #Develop-signatures #course5-module4 

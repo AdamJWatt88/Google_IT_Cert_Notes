@@ -1,0 +1,4 @@
+
+In large organizations, you may require separate solutions to handle all your networking needs. In smaller organizations, you may be better served by using an all in one prorgam to handle DNS requests and DHCP. The following reference guide covers how dnsmasq can be used to enable all of these functions as well as syntax and how to install and configure a Domain Name System (DNS) and Dynamic Host Configuration Protocol server (DHCP) on your local network.
+
+[dnsmasq Reference Guide](https://docs.google.com/document/d/1IlMrKgWltH37bYCJGCWJIZZwT7Y05fsuxsHL7tq_CJ4/edit?usp=sharing&resourcekey=0-hHy8_8D70uuhcIBOtVs2ew)

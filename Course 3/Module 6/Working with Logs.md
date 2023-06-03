@@ -1,0 +1,8 @@
+-   Investigating system issues using logs
+-   First step: search for something specific, such as the word "error"
+-   Filter logs by application name to narrow down search
+-   Check time stamps to investigate issues that occur around a certain time
+-   Start looking at log output from either the top or bottom
+-   Resolve root issue to fix cascading errors
+-   Check logs in real time using the "tail" command
+-   Using logs is a valuable troubleshooting tactic for IT support specialists

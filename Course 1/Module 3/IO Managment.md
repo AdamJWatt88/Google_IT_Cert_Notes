@@ -1,0 +1,5 @@
+- Another important task that our kernel handles is managing input and output. We refer to devices that perform input and output as I/O devices. These include our monitors, keyboards, mice, hard disk drives, speakers, Luther's headsets, webcams and network adapters. These I/O devices are all managed by our kernel, the kernel needs to be able to load up drivers that are used so that we can recognize and speak to these different types of hardware.
+
+- When the kernel is able to start the drivers to communicate with hardware, it also manages the transfer of data in and out of the devices. I/O doesn't just mean the transfer of data between us and our devices. The devices also need to be able to talk to each other. Our kernel handles all the inter communication between devices. It also figures out what the most efficient method of transfer is and it tries its best to make sure our data doesn't have errors during process.
+
+#kernel #i/o-management #course1-module3 

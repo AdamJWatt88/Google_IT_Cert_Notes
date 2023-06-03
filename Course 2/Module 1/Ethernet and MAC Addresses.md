@@ -1,0 +1,14 @@
+-   Wireless and cellular internet access are common ways to connect computing devices, but traditional cable networks are still commonly used in the workplace and data center.
+-   The protocol widely used to send data across individual links is called ethernet, and it provides a means for software at higher levels of the stack to send and receive data.
+-   The **data link layer** is responsible for abstracting away the need for any other layers to care about the physical layer and hardware in use.
+-   Ethernet was first introduced in 1980 and standardized in 1983. Ethernet as a protocol solved the problem of collisions in a network segment by using **carrier sense multiple access with collision detection (CSMA CD)** technique.
+-   **CSMA CD** is used to determine when the communications channels are clear and when the device is free to transmit data.
+-  **Hexadecimal** is a way to represent numbers using 16 digits. Since we don't have numerals to represent any individual digit larger than nine, hexadecimal numbers employ the letters A, B, C, D, E and F to represent the numbers 10, 11, 12, 13, 14 and 15.
+-   MAC address (Media Access Control Address) is a globally unique identifier attached to an individual network interface, represented by a 48-bit number usually in six groups of two hexadecimal numbers.
+-   MAC addresses are globally unique because the number of possible MAC addresses that could exist is 2^48 or 281,474,976,710,656 unique possibilities.
+-   Another way to reference each group of numbers in a MAC address is an **octet**. In **octet**, in computer networking is any number that can be represented by 8-bits. In this case, two hexadecimal digits can represent the same numbers that 8-bits can
+-   The first three octets of a MAC address are known as the organizationally unique identifier or OUI, assigned to individual hardware manufacturers by the IEEE (Institute of Electrical and Electronics Engineers), and the last three octets can be assigned in any way the manufacturer wants, keeping all MAC addresses globally unique.![[mac-address-identifier.png]]
+-   Ethernet uses MAC addresses to ensure that the data it sends has an address for the machine that sent the transmission and the destination machine. Ethernet frames consist of various components, including the source and destination MAC addresses, the data payload, and a cyclical redundancy check (CRC) that helps ensure the integrity of the data sent via ethernet.
+-   Unicast, multicast, and broadcast addresses are differentiated in ethernet frames.
+
+#ethernet #mac-address #course2-module1 #hexidecimal #octet

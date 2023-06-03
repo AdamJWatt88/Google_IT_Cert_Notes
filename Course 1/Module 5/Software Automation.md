@@ -1,0 +1,2 @@
+- If you need to install, update, and remove software for multiple machines, then that is a cause for software automation.
+- Tools of automation like programs and scripts can help you with troubleshooting issues.

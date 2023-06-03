@@ -1,0 +1,2 @@
+
+For more information on getting started with **Microsoft PowerShell**, check out the link [here](https://mva.microsoft.com/en-us/training-courses/getting-started-with-microsoft-powershell-8276) and also [here](https://github.com/PowerShell/PowerShell/blob/master/docs/learning-powershell/README.md).

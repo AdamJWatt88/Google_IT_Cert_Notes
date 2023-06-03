@@ -1,0 +1,22 @@
+-   **Asymmetric** or **public key ciphers** are the **second class** of ciphers.
+-   **Symmetric** ciphers use the **same key** for **encryption** and **decryption**.
+-   **Asymmetric** encryption uses **different keys** for encryption and decryption.
+-   An example of sending messages back and forth with asymmetric encryption would go like this: 
+	-   Two people, Suzanne and Darryl, want to communicate securely using asymmetric encryption.
+	-   They each generate a private key, which is used to derive a public key.
+	-   Public keys are shared publicly, while private keys must be kept secret.
+	-   Suzanne uses Darryl's public key to encrypt a message, and Darryl uses his private key to decrypt it.
+	-   Only Darryl's private key can decrypt messages encrypted with Darryl's public key.
+	-   The same applies to Suzanne's key pairs.
+	-   Darryl can reply by using Suzanne's public key to encrypt his message.
+	-   Asymmetric encryption provides confidentiality and authenticity.
+	-   Public key signatures are another function of the system.
+	-   Suzanne can generate a digital signature using her private key to ensure message origin and integrity.
+	-   Darryl can verify the signature using Suzanne's public key.
+	-   If the message was not tampered with, the signature will validate.
+-   **Asymmetric cryptography** provides **confidentiality**, **authenticity**, and **non-repudiation**.
+-   **Confidentiality** is achieved through encryption and decryption.
+-   **Authenticity** is achieved through digital signatures.
+-   **Non-repudiation** ensures the message's author cannot deny its origin.
+
+#asymmetric-cryptography #symmetric-cryptography #course5-module2 
